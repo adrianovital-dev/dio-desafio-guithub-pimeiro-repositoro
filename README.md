@@ -1,2 +1,2 @@
-# dio-desafio-guithub-pimeiro-repositoro
+# dio-desafio-guithub-pimeiro-repositorio
 Desafio de projeto Git/Github
